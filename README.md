@@ -1,5 +1,4 @@
-
- <h1 align="center">FlutterDex</h1>
+ <h1 align="center">pokedox</h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/60814961/113476858-523bcf00-94a8-11eb-9266-2abd6c698cc9.png" width="23%"></img> 
@@ -8,15 +7,9 @@
 <img src="https://user-images.githubusercontent.com/60814961/113578126-818b4100-964c-11eb-898c-23eaba79e428.png" width="23%"></img> 
 </p>
 
-
-# FlutterDex
+# pokedox
 
 A simple PokeDex App created using [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) and using API from [PokeApi](https://pokeapi.co/).
-
-UI Design inspired by :
-- [Home Screen](https://www.pinterest.com/pin/133982157654115616/)
-- [Pokedex iOS App](https://dribbble.com/shots/4862523-Pokedex-iOS-app-Squirtle) - by [Daniel Motta](https://dribbble.com/DanielMots)
-
 
 ## Features
 
@@ -25,7 +18,6 @@ UI Design inspired by :
 - Pokemon About Info
 - Pokemon Stats Info
 - Pokemon Moves Info
-
 
 ## How to Run
 
@@ -38,11 +30,3 @@ UI Design inspired by :
    flutter pub get
    ```
 3. Run the App
-
-## Contact
-
-- [Ariz Armeidi](https://github.com/ArizArmeidi/) | [Twitter](https://twitter.com/ArizArmeidi) | [Instagram](https://www.instagram.com/ariz.armeidi/)
-- If you find the content of this repository useful and you have some extra money, you can donate to me through [PayPal](https://www.paypal.com/paypalme/arizarmeidi)
-
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
